@@ -31,7 +31,7 @@ In addition, the Table below shows the number of samples retrieved per class or 
 
 
 
-<div style="display:flex;justify-content:center;margin: 0 auto; text-align: center">
+<p style="display:flex;justify-content:center;margin: 0 auto; text-align: center">
   <span style="padding: 10px">
     <p>Standing up in Kitchen 1 by S0</p>
     <img src="images/standingup-Kitchen1-S0.gif" width="150"/>
@@ -55,8 +55,25 @@ In addition, the Table below shows the number of samples retrieved per class or 
     <p>Watching TV in LivingRoom 1 by S4</p>
     <img src="images/watching_tv-LivingRoom1-S4.gif" width="150"/>
   </span>
-</div>
+</p>
 
+
+<table>
+  <tr>
+    <td>Standing up in Kitchen 1 by S0</td>
+     <td>Cleaning in LivingRoom 2 by S1</td>
+     <td>Eating in DinningRoom 1 by S2k</td>
+     <td>Sitting down in LivingRoom 2 by S3</td>
+     <td>Watching TV in LivingRoom 1 by S4</td>
+  </tr>
+  <tr>
+    <td><img src="images/standingup-Kitchen1-S0.gif" width=160></td>
+    <td><img src="images/cleaning_Office1-S1.gif" width=160></td>
+    <td><img src="images/eating_DinningRoom1-S2.gif" width=160></td>
+    <td><img src="images/sittingdown-LivingRoom2-S3.gif" width=160></td>
+    <td><img src="images/watching_tv-LivingRoom1-S4.gif" width=160></td>
+  </tr>
+ </table>
 
 ## How-to-use?
 First, download the video Indoor Action Dataset running [setup_video_data.sh](setup_video_data.sh) (_**Available upon publication**_). This will download a zip file with the dataset and will unzip it into three folders: train, validation and test.
