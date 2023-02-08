@@ -29,40 +29,11 @@ In addition, the Table below shows the number of samples retrieved per class or 
 | _watching tv_              |        60 |       19 |       43 |       122 |
 | _no-action_                |        57 |       14 |       32 |       103 |
 
-
-
-<p style="display:flex;justify-content:center;margin: 0 auto; text-align: center">
-  <span style="padding: 10px">
-    <p>Standing up in Kitchen 1 by S0</p>
-    <img src="images/standingup-Kitchen1-S0.gif" width="150"/>
-  </span>
-  <span style="padding: 10px">
-    <p>Cleaning in LivingRoom 2 by S1</p>
-    <img src="images/cleaning_Office1-S1.gif" width="150"/>
-  </span>
-  
-  <span style="padding: 10px">
-    <p>Eating in DinningRoom 1 by S2</p>
-    <img src="images/eating_DinningRoom1-S2.gif" width="150"/>
-  </span>
-
-  <span style="padding: 10px">
-    <p>Sitting down in LivingRoom 2 by S3</p>
-    <img src="images/sittingdown-LivingRoom2-S3.gif" width="150"/>
-  </span>
-
-  <span style="padding: 10px">
-    <p>Watching TV in LivingRoom 1 by S4</p>
-    <img src="images/watching_tv-LivingRoom1-S4.gif" width="150"/>
-  </span>
-</p>
-
-
 <table>
   <tr>
     <td>Standing up in Kitchen 1 by S0</td>
      <td>Cleaning in LivingRoom 2 by S1</td>
-     <td>Eating in DinningRoom 1 by S2k</td>
+     <td>Eating in DinningRoom 1 by S2</td>
      <td>Sitting down in LivingRoom 2 by S3</td>
      <td>Watching TV in LivingRoom 1 by S4</td>
   </tr>
