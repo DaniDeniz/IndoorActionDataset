@@ -71,11 +71,13 @@ Full lenght videos were manually cropped into individual clips, and then this cl
 
 The name of each clip is as follows: 
 
-"<span style="color:#9b5fe0">20210114</span>_<span style="color:#16a4d8">150036</span>-<span style="color:#60dbe8">151348</span>[<span style="color:#8bd346">150942.072000</span>,<span style="color:#efdf48">150950.572000</span>] (<span style="color:#f9a52c">LivingRoom 1</span> - <span style="color:#d64e12">S0</span>)"
+$${\color{#9b5fe0}{20210114}}\\_{\color{#16a4d8}{150036}}-{\color{#60dbe8}{151348}}[{\color{#8bd346}{150942.072000}},{\color{#efdf48}{150950.572000}}] ({\color{#f9a52c}{LivingRoom 1}} - {\color{#d64e12}{S0}})$$
 
 Which represents:
 
-"<span style="color:#9b5fe0">date(YYYYMMDD)</span>_<span style="color:#16a4d8">starTimeVideo(HHMMSS)</span>-<span style="color:#60dbe8">finishTimeVideo(HHMMSS)</span>[<span style="color:#8bd346">startTimeClip(HHMMSS.f)</span>,<span style="color:#efdf48">finishTimeClip(HHMMSS.f)</span>] (<span style="color:#f9a52c">ScenarioID</span> - <span style="color:#d64e12">SubjectID</span>)"
+$${\color{#9b5fe0}{date(YYYYMMDD)}}\\_{\color{#16a4d8}{starTimeVideo(HHMMSS)}}-{\color{#60dbe8}{finishTimeVideo(HHMMSS)}}$$ 
+
+$$[{\color{#8bd346}{startTimeClip(HHMMSS.f)}},{\color{#efdf48}{finishTimeClip(HHMMSS.f)}}] ({\color{#f9a52c}{ScenarioID}} - {\color{#d64e12}{SubjectID}})$$
 
 Note that with _Video_ we refer to the original video of continuous recording, and with _Clip_ we refer to each of the samples extracted from each video. Therefore, every clip recorded in the same scenario by the same subject at the same _Video_ time means that these clips were retrieved from the same video. The start and finish _Clip_ time points out when the action occurred in the recorded _Video_.
 
