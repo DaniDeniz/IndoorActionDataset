@@ -3,7 +3,7 @@ We are releasing the Indoor video dataset for action recognition presented in [[
 
 The dataset includes samples of ten different classes of activities such as *cleaning*, *eating*, *sitting down*, *standing up*, *blowing nose*, *walking*, *watching tv* as well as classes that represent potentially risky situations such as *falling down* or *lying on the floor*. Additionally, we included a *no-action* class with indoor spaces where no activity is carried out or no one is on the scene.
 
-In the following table we provide information about how many clips were recorded by each of subjects.
+In the following table we provide information about how many clips were recorded by each subjects.
 
 | **Subject ID** | **Gender** | **Train** | **Val.** | **Test** | **Total** |
 |-------------:|-----------:|----------:|---------:|---------:|----------:|
@@ -84,7 +84,7 @@ Please cite this paper in publications carrying out work using this video databa
 ```
 
 ## License
-
+[BSD 3-Clause license](LICENSE)
 
 
 ### Acknowledgements
