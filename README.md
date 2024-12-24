@@ -74,13 +74,18 @@ Note that with _Video_ we refer to the original video of continuous recording, a
 ## Citation
 Please cite this paper in publications carrying out work using this video database:
 
-[1] D. Deniz, E. Ros, E. M. Ortigosa, F. Barranco. "Optimized edge-cloud system for activity monitoring using knowledge distillation" in *IEEE Transactions on Mobile Computing*, *in Press*.
+[1] D. Deniz, E. Ros, E. M. Ortigosa, F. Barranco. "Optimized edge-cloud system for activity monitoring using knowledge distillation" in *Electronics*, 13 (23), 2024.
 ```
-@article{deniz2023optimized,
-  title={Optimized edge-cloud system for activity monitoring using knowledge distillation},
+@article{deniz2024optimized,
+  title={Optimized Edge-Cloud System for Activity Monitoring Using Knowledge Distillation},
   author={Deniz, Daniel and Ros, Eduardo and Ortigosa, Eva M and Barranco, Francisco},
-  journal={IEEE Transactions on Mobile Computing},
-  year={in Press}
+  journal={Electronics},
+  volume={13},
+  number={23},
+  pages={4786},
+  year={2024},
+  publisher={MDPI}
+}
 ```
 
 ## License
