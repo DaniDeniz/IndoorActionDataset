@@ -93,5 +93,4 @@ Please cite this paper in publications carrying out work using this video databa
 
 
 ### Acknowledgements
-This dataset was collected during the development of the Habit Tracking use case in the [FitOptiVis](https://fitoptivis.eu/) European Research Project.
-
+This work was supported by the National Grant PID2022-141466OB-I00 funded by MICIU/AEI/10.13039/501100011033 and by ERDF/EU.
