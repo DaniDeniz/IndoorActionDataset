@@ -8,7 +8,7 @@ exit 0
 
 echo "Start downloading video Indoor Action Dataset..."
 
-wget -O IndoorActionDataset-video.zip 
+wget -O IndoorActionDataset-video.zip https://drive.google.com/file/d/1YBJkc8czE0s76IbHbTfBvoS9pXaQnVXH/view?usp=sharing
 
 echo "video Indoor Action Dataset download finished"
 
