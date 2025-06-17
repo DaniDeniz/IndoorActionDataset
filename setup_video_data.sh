@@ -2,7 +2,7 @@
 
 echo "Start downloading video Indoor Action Dataset..."
 
-wget -O IndoorActionDataset-video.zip https://drive.google.com/file/d/1YBJkc8czE0s76IbHbTfBvoS9pXaQnVXH/view?usp=sharing
+wget -O IndoorActionDataset-video.zip https://atcdatos.ugr.es/index.php/s/zqPA9ajR78Bn6qB/download
 
 echo "video Indoor Action Dataset download finished"
 
